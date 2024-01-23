@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{EE9FC2DE-D991-4648-996D-54917063554A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="homework2401/ExtentionMethods.cs">
+    <Files>
+      <File FileName="homework2401/Program.cs" Line="1" Column="1" />
+      <File FileName="homework2401/ExtentionMethods.cs" Line="86" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework2401" expanded="True">
+            <Node name="homework2401" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.homework2401 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.homework2401 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
